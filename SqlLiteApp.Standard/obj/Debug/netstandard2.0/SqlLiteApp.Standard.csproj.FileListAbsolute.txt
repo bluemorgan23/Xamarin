@@ -1,0 +1,12 @@
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\bin\Debug\netstandard2.0\SqlLiteApp.Standard.deps.json
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\bin\Debug\netstandard2.0\SqlLiteApp.Standard.dll
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.csproj.CoreCompileInputs.cache
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.AssemblyInfoInputs.cache
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.AssemblyInfo.cs
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\bin\Debug\netstandard2.0\SqlLiteApp.Standard.pdb
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\bin\Debug\netstandard2.0\SqlLiteMobile.dll
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\bin\Debug\netstandard2.0\SqlLiteMobile.pdb
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.csprojAssemblyReference.cache
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.csproj.CopyComplete
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.dll
+C:\Users\bluem\Documents\projects\SqlLiteMobile\SqlLiteApp.Standard\obj\Debug\netstandard2.0\SqlLiteApp.Standard.pdb
